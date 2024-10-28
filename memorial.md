@@ -1,185 +1,25 @@
----
-date: 24 July 2015
-generator: 'DocBook XSL Stylesheets V1.76.1'
-keywords: 'PC/NPC, Battle Cruiser, Long Range, I'
-title: 'Memorial-class'
-...
-
-Memorial-class
-
-[Prev](manhattan.html) 
-
-Ship Specifications (Primary)
-
- [Next](mjolnir.html)
-
-* * * * *
-
-Memorial-class {.title}
---------------
-
-Maintainer
-
-### Brandon Rehak {.author}
-
-Primary Designers
-
-### Brandon Rehak {.author}
-
-**Revision History**
-
-Revision 1
-
-04/12/14
-
-Approved by Engineering Director Robert Archer
-
-* * * * *
-
-**Table of Contents**
-
-[History and Mission Overview](memorial.html#idp140478701611056)
-
-[Mission Profiles](memorial.html#idp140478701615808)
-
-[Structure and Construction](memorial.html#idp140478701621744)
-
-[Mission Modules](memorial.html#idp140478701641728)
-
-[Science and Remote Sensing Systems](memorial.html#idp140478701654528)
-
-[Sensor Systems](memorial.html#idp140478701655248)
-
-[Warp Propulsion Systems](memorial.html#idp140478701663968)
-
-[Impulse Propulsion Systems](memorial.html#idp140478701665808)
-
-[Tactical Systems](memorial.html#idp140478701667952)
-
-[Defensive Shields](memorial.html#idp140478701668656)
-
-[Phaser Systems](memorial.html#idp140478701670576)
-
-[Torpedo Systems](memorial.html#idp140478701675696)
-
-[Command and Support Systems](memorial.html#idp140478701678576)
-
-[Bridge](memorial.html#idp140478701679280)
-
-[Ready Room](memorial.html#idp140478701681920)
-
-[Briefing Room](memorial.html#idp140478701683328)
-
-[Brig Complex](memorial.html#idp140478701684752)
-
-[Security Office / Armory / Security Training Complex / COS’s
-Office](memorial.html#idp140478701686112)
-
-[Science Labs / Chief Science Officer's
-Office](memorial.html#idp140478701687744)
-
-[Engineering / Chief Engineer’s
-Office](memorial.html#idp140478701689360)
-
-[JAG / Intel Office](memorial.html#idp140478701691056)
-
-[Utility Systems](memorial.html#idp140478701692720)
-
-[Cargo Bays](memorial.html#idp140478701693408)
-
-[Tractor Beam Systems](memorial.html#idp140478701695456)
-
-[Transporter Systems](memorial.html#idp140478701697104)
-
-[Machine Shop](memorial.html#idp140478701698800)
-
-[Crew Support Systems](memorial.html#idp140478701700336)
-
-[Sickbay / Chief Medical Officer's
-Office](memorial.html#idp140478701701040)
-
-[Holodecks / Holosuites](memorial.html#idp140478701702624)
-
-[CO / XO / 2-forward Observation
-Areas](memorial.html#idp140478701704064)
-
-[2-Forward](memorial.html#idp140478701705696)
-
-[CO Quarters](memorial.html#idp140478701707216)
-
-[XO Quarters](memorial.html#idp140478701708640)
-
-[Department Head Quarters](memorial.html#idp140478701710032)
-
-[Junior Officers Quarters](memorial.html#idp140478701711456)
-
-[Non-Commissioned Crew Quarters](memorial.html#idp140478701712848)
-
-[General Purpose Areas](memorial.html#idp140478701714320)
-
-[Auxiliary Spacecraft Systems](memorial.html#idp140478701716448)
-
-[Shuttle / Fighter Bay](memorial.html#idp140478701717152)
-
-[Technical Specifications](memorial.html#idp140478701724256)
-
-[Deck Layout](memorial.html#idp140478701766464)
-
-[Ships of the Class](memorial.html#idp140478701840048)
-
-[Conclusion](memorial.html#idp140478701864288)
-
 History and Mission Overview {.title}
 ----------------------------
 
-In the early months of 2386, the Pendragon class USS Crusader NCC-86286
-was on a first contact mission to a newly discovered race called the
-Flea'tans. They were three species formed into an insectoid hybrid form
-from the world Flea'tara, which was discovered by the USS Barret near
-fleet 5 and 6's operational areas. Early in their development, an
-outside alien being known only as the Elder genetically manipulated
-these three separate species into the present Flea'tans that were met.
-The Flea'tans eventually ceased their worship of The Elder as their
-deity and the being was eventually lost to the ages of passing time.
-Coming to the present day, the Crusader found their mission of first
-contact and technology exchange halted by the return of the Elder, who
-wished to use his cyborg army, attack drone ships and dreadnoughts to
-eventually make a bid for conquering that area of space and beyond.
+In the early months of 2386, the Pendragon class USS Crusader NCC-86286 was on a first contact mission to a newly discovered race called the Flea'tans. They were three species formed into an insectoid hybrid form from the world Flea'tara, which was discovered by the USS Barret near fleet 5 and 6's operational areas. Early in their development, an outside alien being known only as the Elder genetically manipulated these three separate species into the present Flea'tans that were met. The Flea'tans eventually ceased their worship of The Elder as their deity and the being was eventually lost to the ages of passing time. Coming to the present day, the Crusader found their mission of first contact and technology exchange halted by the return of the Elder, who wished to use his cyborg army, attack drone ships and dreadnoughts to eventually make a bid for conquering that area of space and beyond.
 
-During this time, one of the Crusader’s fresh from the Academy security
-and tactical officers, ensign Brando Corleone, experienced the Crusader
-grow ever more outmatched by the more advanced designs of the Elder.
-This experience occurred when he was forced to take command of the ship
-in battle when the senior staff was knocked out. Being determined to
-save lives in the future; he set about designing a long range tactical
-variant battle cruiser based off the Pendragon.
+During this time, one of the Crusader's fresh from the Academy security and tactical officers, ensign Brando Corleone, experienced the Crusader grow ever more outmatched by the more advanced designs of the Elder. This experience occurred when he was forced to take command of the ship in battle when the senior staff was knocked out. Being determined to save lives in the future; he set about designing a long range tactical variant battle cruiser based off the Pendragon.
 
-Two months later the semi-roguish Section 31 division of Starfleet,
-seeing that the Elder was a threat to Federation security, 'borrowed'
-the specifications from Ensign Corleone's work. Shortly afterward, they
-constructed the Memorial class battle cruiser, in secret, through their
-contacts and resources in Starfleet.
+Two months later the semi-roguish Section 31 division of Starfleet, seeing that the Elder was a threat to Federation security, 'borrowed'
+the specifications from Ensign Corleone's work. Shortly afterward, they constructed the Memorial class battle cruiser, in secret, through their contacts and resources in Starfleet.
 
-After action reports of the ‘Destiny Paradox’ from the USS Dresden
-temporarily assigned to Fleet 6, showed the prowess and durability in
-the face of overwhelming odds that the Memorial class could bring to
-Federation interests. Starfleet, after being briefed on the performance
-of the class in battle and in other areas, finally approved the
-construction officially of the Memorial class long range tactical battle
-cruiser to supplement the Prometheus class.
+After action reports of the 'Destiny Paradox' from the USS Dresden temporarily assigned to Fleet 6, showed the prowess and durability in the face of overwhelming odds that the Memorial class could bring to Federation interests. Starfleet, after being briefed on the performance of the class in battle and in other areas, finally approved the construction officially of the Memorial class long range tactical battle cruiser to supplement the Prometheus class.
 
 ### Mission Profiles {.title}
 
-The Memorial class battle cruiser is suited to the following mission
-profiles:
+The Memorial class battle cruiser is suited to the following mission profiles:
 
 -   Long range fleet support, combat actions, patrols and exploration
 -   Command & Control of combat engagements
 -   Urban Pacification / Policing duties
 -   Secured diplomatic conferences
 
-With mission modules equipped the Memorial class can also fit the
-following profiles:
+With mission modules equipped the Memorial class can also fit the following profiles:
 
 -   Troop Transport
 -   Orbital to Ground Support Operations
@@ -188,34 +28,18 @@ following profiles:
 Structure and Construction {.title}
 --------------------------
 
-The saucer is V shaped with an angular teardrop engineering hull
-blending out of it. Coming up in a 90 degree arc are the ship’s two
-static pylon nacelles. Situated in between both pylons is the ship’s
-single mission module.
+The saucer is V shaped with an angular teardrop engineering hull blending out of it. Coming up in a 90 degree arc are the ship's two static pylon nacelles. Situated in between both pylons is the ship's single mission module.
 
-The Memorial utilizes a tritanium alloy hull triple layered and
-reinforced with cross members built from a further tritanium alloy
-support structure. Inside each hull layer is a 3 cm thick hardened foam
-padding of duranium. The ship was then transporter welded along the
-whole frame to reinforce the ship’s superstructure and reduce
-construction time.
+The Memorial utilizes a tritanium alloy hull triple layered and reinforced with cross members built from a further tritanium alloy support structure. Inside each hull layer is a 3 cm thick hardened foam padding of duranium. The ship was then transporter welded along the whole frame to reinforce the ship's superstructure and reduce construction time.
 
-The Memorial is covered with 8 centimeters of ablative armor outside and
-another 2 centimeters of tritanium layered reinforcement inside. Coupled
-with higher powered and layered structural integrity fields, this gives
-the Memorial class a high degree of damage resistance in combat and
-extreme maneuvers.
+The Memorial is covered with 8 centimeters of ablative armor outside and another 2 centimeters of tritanium layered reinforcement inside. Coupled with higher powered and layered structural integrity fields, this gives the Memorial class a high degree of damage resistance in combat and extreme maneuvers.
 
-The entire deck line and hull structure of the Memorial class spans 21
-decks.
+The entire deck line and hull structure of the Memorial class spans 21 decks.
 
 Mission Modules {.title}
 ---------------
 
-Ensign Brando Corleone and Section 31 included into the design a dome
-shaped mission module. This module, which allows the Memorial-class to
-expand its usual mission profiles, is positioned on decks 8-14 in
-between the ship's warp nacelle pylons.
+Ensign Brando Corleone and Section 31 included into the design a dome shaped mission module. This module, which allows the Memorial-class to expand its usual mission profiles, is positioned on decks 8-14 in between the ship's warp nacelle pylons.
 
 By default the Memorial's module area is a cargo module.
 
@@ -253,97 +77,50 @@ Science and Remote Sensing Systems {.title}
 
 ### Sensor Systems {.title}
 
-The Memorial mounts the Class 9 sensor system. The system has a maximum
-high resolution range out to 4.34 light years, and a low resolution
-range out to 15 light years. The system includes the Emissions Tracking
-System by default. This allows the Memorial class a better chance at
-detecting cloaked ships with improperly configured or damaged cloaking
-devices.
+The Memorial mounts the Class 9 sensor system. The system has a maximum high resolution range out to 4.34 light years, and a low resolution range out to 15 light years. The system includes the Emissions Tracking System by default. This allows the Memorial class a better chance at detecting cloaked ships with improperly configured or damaged cloaking devices.
 
 #### Computer Core / Network systems / ENINTADI AI {.title}
 
-The Memorial comes with two isolinear data storage computer cores
-enhanced with bio-neural circuitry processors to speed up response
-times. The cores are located in a straight line down the ship's
-structure on decks 4-7 and 9-11.
+The Memorial comes with two isolinear data storage computer cores enhanced with bio-neural circuitry processors to speed up response times. The cores are located in a straight line down the ship's structure on decks 4-7 and 9-11.
 
-The class comes equipped with bio-neural circuitry as its primary mode
-of operation, and backup isolinear circuitry for secondary and backup
-systems.
+The class comes equipped with bio-neural circuitry as its primary mode of operation, and backup isolinear circuitry for secondary and backup systems.
 
-A final addition of programming by Section 31 was a tactical oriented,
-self aware neural AI called Enhanced Neural Image, Navigational,
-Tactical and Defense Intelligence or ENINTADI by the Section 31
-developers. This neural AI when activated, named itself Entity.
+A final addition of programming by Section 31 was a tactical oriented, self aware neural AI called Enhanced Neural Image, Navigational, Tactical and Defense Intelligence or ENINTADI by the Section 31 developers. This neural AI when activated, named itself Entity.
 
-This self aware neural AI coordinates all ship navigation,
-tactical-offensive and defensive systems. Though automatic control of
-the ship by ENINTADI is possible by voice commands, this procedure can
-only be activated by both of the ship’s ranking commanding and executive
-officers. By default, however, ENINTADI advises tactical and security
-personnel on such related matters. The AI also coordinates the ship’s
-security anti-hacking and virus protocols and when ordered will attempt
-to perform similarly on enemy vessels. This gives the Memorial class a
-higher resistance to enemy computer core infiltration attempts in
-combat, as well as possible alien virus infection.
+This self aware neural AI coordinates all ship navigation, tactical-offensive and defensive systems. Though automatic control of the ship by ENINTADI is possible by voice commands, this procedure can only be activated by both of the ship's ranking commanding and executive officers. By default, however, ENINTADI advises tactical and security personnel on such related matters. The AI also coordinates the ship's security anti-hacking and virus protocols and when ordered will attempt to perform similarly on enemy vessels. This gives the Memorial class a higher resistance to enemy computer core infiltration attempts in combat, as well as possible alien virus infection.
 
-This neural AI is made up of some of the finest tactical and security
-minded advisers in the Federation and its allies. Furthermore, its
-computer software and neural routines are adaptive and will expand and
-learn the longer it operates.
+This neural AI is made up of some of the finest tactical and security minded advisers in the Federation and its allies. Furthermore, its computer software and neural routines are adaptive and will expand and learn the longer it operates.
 
-Although Section 31's initial AI program named itself 'Entity', no two
-ENINTADI programs will behave exactly alike. As such, the AI program's
-names and personality will vary from ship to ship.
+Although Section 31's initial AI program named itself 'Entity', no two ENINTADI programs will behave exactly alike. As such, the AI program's names and personality will vary from ship to ship.
 
 ENINTADI co-runs beside the LCARS 7.0 interface.
 
 #### Holographic Systems {.title}
 
-The Memorial comes with holo-emitters across all decks, Jeffries tubes
-and other small areas and can support up to two Mark IV female EMH
-programs. One program is located in each core.
+The Memorial comes with holo-emitters across all decks, Jeffries tubes and other small areas and can support up to two Mark IV female EMH programs. One program is located in each core.
 
 Warp Propulsion Systems {.title}
 -----------------------
 
-The Memorial mounts a single Class 9 warp core, which feeds the ship's
-two warp nacelles. This core produces 3,053 Cochranes and is able to
-propel the Memorial class at a cruising speed of warp 7.0, a max
-cruising speed of warp 9.6, a max velocity speed for 12 hours of Warp
-9.975 and an emergency speed of warp 9.985.
+The Memorial mounts a single Class 9 warp core, which feeds the ship's two warp nacelles. This core produces 3,053 Cochranes and is able to propel the Memorial class at a cruising speed of warp 7.0, a max cruising speed of warp 9.6, a max velocity speed for 12 hours of Warp 9.975 and an emergency speed of warp 9.985.
 
 Impulse Propulsion Systems {.title}
 --------------------------
 
-The Memorial mounts four impulse engines, though only two are used at
-any given time for maneuvering. The remaining two are used as auxiliary
-power reactors and for battle situations that require high speed attack
-runs. They are mounted on the aft end of the ship with two on decks 4-5,
-and one each on decks 10-11 and 15-16. The engines have a maximum
-combined velocity of .25c, and can propel the entire ship to full
-impulse in 40 seconds and a full stop in 45 seconds when coupled with
-its many RCS thrusters. This setup allows the Memorial class a high
-degree of maneuverability compared to other vessels of its size.
+The Memorial mounts four impulse engines, though only two are used at any given time for maneuvering. The remaining two are used as auxiliary power reactors and for battle situations that require high speed attack runs. They are mounted on the aft end of the ship with two on decks 4-5, and one each on decks 10-11 and 15-16. The engines have a maximum combined velocity of .25c, and can propel the entire ship to full impulse in 40 seconds and a full stop in 45 seconds when coupled with its many RCS thrusters. This setup allows the Memorial class a high degree of maneuverability compared to other vessels of its size.
 
 Tactical Systems {.title}
 ----------------
 
 ### Defensive Shields {.title}
 
-The Memorial mounts the Type 11 shield system. Emitters are placed in
-key positions along the whole width and breadth of the ship's frame. The
-maximum graviton load that can be sustained is 2,419 Megawatts and a
-maximum dissipation rate of 6.6x10\^5 megawatts. The system also
-contains metaphasic programming for close solar body entry when in
-combat, pursuit or retreat from enemy forces.
+The Memorial mounts the Type 11 shield system. Emitters are placed in key positions along the whole width and breadth of the ship's frame. The maximum graviton load that can be sustained is 2,419 Megawatts and a maximum dissipation rate of 6.6x10\^5 megawatts. The system also contains metaphasic programming for close solar body entry when in combat, pursuit or retreat from enemy forces.
 
 ### Phaser Systems {.title}
 
-The Memorial uses twelve Type 10 phaser arrays. They are arrayed as
-follows:
+The Memorial uses twelve Type 10 phaser arrays. They are arrayed as follows:
 
--   Four arrays are located dorsally and ventrally along the ship’s
+-   Four arrays are located dorsally and ventrally along the ship's
     saucer in a double U pattern. These strips contain 200 emitters
     each.
 -   Two arrays are located forward and aft along the underbelly of the
@@ -359,13 +136,9 @@ Each Type 10 strip can output 5.1 Megawatts out to 300,000 kilometers.
 
 ### Torpedo Systems {.title}
 
-The Memorial carries four Type 6 burst fire torpedo launchers. Each is
-capable of launching 12 torpedoes every 8 seconds. Three are located
-forward on decks 9 and 10, with a single rear firing launcher on the
-same deck.
+The Memorial carries four Type 6 burst fire torpedo launchers. Each is capable of launching 12 torpedoes every 8 seconds. Three are located forward on decks 9 and 10, with a single rear firing launcher on the same deck.
 
-The ship carries 120 photon torpedoes, 120 quantum torpedoes, 50
-scientific probes, 5 Tricobalt devices and 5 empty casings.
+The ship carries 120 photon torpedoes, 120 quantum torpedoes, 50 scientific probes, 5 Tricobalt devices and 5 empty casings.
 
 The three systems have a maximum effective range of 3,500,000 km.
 
@@ -374,199 +147,115 @@ Command and Support Systems {.title}
 
 ### Bridge {.title}
 
-Unlike other starship designs the Memorial’s bridge is located on deck
-8. This was to ensure better protection during combat, which given the
-after action reports of heavy combat from the Crusader's crew was a
-needed asset.
+Unlike other starship designs the Memorial's bridge is located on deck 8. This was to ensure better protection during combat, which given the after action reports of heavy combat from the Crusader's crew was a needed asset.
 
-Access is gained via two turbolifts at the forward section of the bridge
-to port and starboard. The bridge is laid out in a square pattern with
-the Commanding Officer, Executive Officer and Counselor situated along
-the aft end of the bridge facing forward. In front and to port are the
-Chief Engineer and Chief Science Officer stations. In front and to
-starboard are the Chief of Security and Chief Tactical Officer stations.
-Directly forward of them are the combined Operation and Helm stations.
-Directly port and starboard of the Commanding Officer, Executive Officer
-and Counselor are two Auxiliary stations able to be setup as mission
-needs, or expanded personnel require. At the forward section of the
-bridge in between both turbolifts is the main view screen.
+Access is gained via two turbolifts at the forward section of the bridge to port and starboard. The bridge is laid out in a square pattern with the Commanding Officer, Executive Officer and Counselor situated along the aft end of the bridge facing forward. In front and to port are the Chief Engineer and Chief Science Officer stations. In front and to starboard are the Chief of Security and Chief Tactical Officer stations. Directly forward of them are the combined Operation and Helm stations. Directly port and starboard of the Commanding Officer, Executive Officer and Counselor are two Auxiliary stations able to be setup as mission needs, or expanded personnel require. At the forward section of the bridge in between both turbolifts is the main view screen.
 
 ### Ready Room {.title}
 
-The ready room is located to the aft port side of the bridge; it holds a
-general work area for the CO, with a desk, chair and couch, with room
-for personal effects.
+The ready room is located to the aft port side of the bridge; it holds a general work area for the CO, with a desk, chair and couch, with room for personal effects.
 
 ### Briefing Room {.title}
 
-Located to the forward starboard side of the bridge, just aft from the
-turbolift, is the briefing room. The table can fit up to 12 occupants,
-and contains three briefing monitors.
+Located to the forward starboard side of the bridge, just aft from the turbolift, is the briefing room. The table can fit up to 12 occupants, and contains three briefing monitors.
 
 ### Brig Complex {.title}
 
-The brig complex for the Memorial is contained on deck 14 port, and can
-hold up to 50 prisoners or trouble makers if needed.
+The brig complex for the Memorial is contained on deck 14 port, and can hold up to 50 prisoners or trouble makers if needed.
 
-### Security Office / Armory / Security Training Complex / COS’s Office {.title}
+### Security Office / Armory / Security Training Complex / COS's Office {.title}
 
-These areas are located on deck 11. The armory contains enough stores to
-arm the whole ship's crew with Type 2 phasers, and enough Type 3 rifles
-and variable setting grenades for 75 security members of the Memorial's
-crew. Located next to both areas is the ship’s security training complex
-with holoprojector training ranges.
+These areas are located on deck 11. The armory contains enough stores to arm the whole ship's crew with Type 2 phasers, and enough Type 3 rifles and variable setting grenades for 75 security members of the Memorial's crew. Located next to both areas is the ship's security training complex with holoprojector training ranges.
 
 ### Science Labs / Chief Science Officer's Office {.title}
 
-Though not meant as a dedicated science ship, the Memorial does contain
-expanded science labs compared to other combat-oriented designs. All
-along decks 10-12 are the various scientific labs. These include 6
-general science, 2 astrology, 2 geology, 2 temporal physics, 1
-astrometrics and 3 combat research labs. The CSO's office is located on
-deck 10.
+Though not meant as a dedicated science ship, the Memorial does contain expanded science labs compared to other combat-oriented designs. All along decks 10-12 are the various scientific labs. These include 6 general science, 2 astrology, 2 geology, 2 temporal physics, 1 astrometrics and 3 combat research labs. The CSO's office is located on deck 10.
 
-### Engineering / Chief Engineer’s Office {.title}
+### Engineering / Chief Engineer's Office {.title}
 
-Engineering is situated on decks 13-14. The CE’s office is located on
-deck 14, which looks up to the ship's warp core. There are engineering
-labs placed along deck 14. The two deck room is laid out in a large
-circle with six consoles to each primary compass point detailing present
-system status. A master systems display resides just left of the CE’s
-office door. In an emergency this room can double as a secondary bridge.
+Engineering is situated on decks 13-14. The CE's office is located on deck 14, which looks up to the ship's warp core. There are engineering labs placed along deck 14. The two deck room is laid out in a large circle with six consoles to each primary compass point detailing present system status. A master systems display resides just left of the CE's office door. In an emergency this room can double as a secondary bridge.
 
 ### JAG / Intel Office {.title}
 
-The Memorial has a dedicated JAG/Intel office located on deck 13. The
-office contains up links to all department head offices and labs to
-coordinate crime or intel research. This dual purpose office is only
-used when such personnel are assigned to the ship.
+The Memorial has a dedicated JAG/Intel office located on deck 13. The office contains up links to all department head offices and labs to coordinate crime or intel research. This dual purpose office is only used when such personnel are assigned to the ship.
 
 Utility Systems {.title}
 ---------------
 
 ### Cargo Bays {.title}
 
-The Memorial contains four large, two deck cargo bays situated on decks
-16 and 17, and six smaller, single-deck bays on decks 5, 6, 18 and 19.
-Each large bay contains a cargo transporter, and has exterior access
-doors for umbilical connection loading at starbases. The smaller
-single-deck bays on decks 5 and 6 are often given over for crew storage
-needs. The cargo bays on decks 18 and 19, however, are given to sole use
-of the ship's fighter crews for spare parts, as well as the ship's
-Marine contingent for their specialized equipment.
+The Memorial contains four large, two deck cargo bays situated on decks 16 and 17, and six smaller, single-deck bays on decks 5, 6, 18 and 19. Each large bay contains a cargo transporter, and has exterior access doors for umbilical connection loading at starbases. The smaller single-deck bays on decks 5 and 6 are often given over for crew storage needs. The cargo bays on decks 18 and 19, however, are given to sole use of the ship's fighter crews for spare parts, as well as the ship's Marine contingent for their specialized equipment.
 
 ### Tractor Beam Systems {.title}
 
-The Memorial holds a single tractor emitter on deck 21 aft. The emitter
-can handle a total mass of 500,000 mt out to 1,500 km.
+The Memorial holds a single tractor emitter on deck 21 aft. The emitter can handle a total mass of 500,000 mt out to 1,500 km.
 
 ### Transporter Systems {.title}
 
-The Memorial has ten transporter rooms, which are capable of
-transporting six people each. Two transporter rooms are on deck 3, two
-are on deck 9 and six are on deck 20. Each standard transporter system
-has a range of 40,000 km. The rooms on deck 20 are mainly reserved for
-the use of the ship's marines for use in boarding actions. The ship is
-capable of transporting up to 36 marines every one minute to a single
-targeted location.
+The Memorial has ten transporter rooms, which are capable of transporting six people each. Two transporter rooms are on deck 3, two are on deck 9 and six are on deck 20. Each standard transporter system has a range of 40,000 km. The rooms on deck 20 are mainly reserved for the use of the ship's marines for use in boarding actions. The ship is capable of transporting up to 36 marines every one minute to a single targeted location.
 
 ### Machine Shop {.title}
 
-The Memorial's machine shop is located on decks 16-17 in between the
-ship's two cargo bays.
-https://www.star-fleet.com/library/bookshelf/tm/machineshop.html
+The Memorial's machine shop is located on decks 16-17 in between the ship's two cargo bays. https://www.star-fleet.com/library/bookshelf/tm/machineshop.html
 
 Crew Support Systems {.title}
 --------------------
 
 ### Sickbay / Chief Medical Officer's Office {.title}
 
-The Memorial contains two sickbays both of equal size on decks 7 and 13.
-They each hold 5 bio beds and 2 surgery areas, with each containing 2
-medical labs which can double as an investigative crime suite. The CMO’s
-Office is located in Sickbay 1 on deck 7, able to monitor all patient
-and staff’s current statuses.
+The Memorial contains two sickbays both of equal size on decks 7 and 13. They each hold 5 bio beds and 2 surgery areas, with each containing 2 medical labs which can double as an investigative crime suite. The CMO's Office is located in Sickbay 1 on deck 7, able to monitor all patient and staff's current statuses.
 
 ### Holodecks / Holosuites {.title}
 
-The Memorial comes with three holosuites and three holodecks. The
-holosuites are located along the outer edge of decks 7, 9 and 20. The
-holodecks are located on decks, 7-8, 9-10, and 20-21.
+The Memorial comes with three holosuites and three holodecks. The holosuites are located along the outer edge of decks 7, 9 and 20. The holodecks are located on decks, 7-8, 9-10, and 20-21.
 
 ### CO / XO / 2-forward Observation Areas {.title}
 
-Arrayed on deck one are three domed shaped rooms that allow the CO, XO,
-and ceiling area of 2-Forward to see out into space from above. The area
-extends out forward from deck 1 in a half diamond shape. The CO and XO
-private observation areas allow for a private area to relax and unwind.
-These areas are privately set up for the sole use of the CO and XO.
+Arrayed on deck one are three domed shaped rooms that allow the CO, XO, and ceiling area of 2-Forward to see out into space from above. The area extends out forward from deck 1 in a half diamond shape. The CO and XO private observation areas allow for a private area to relax and unwind. These areas are privately set up for the sole use of the CO and XO.
 
 ### 2-Forward {.title}
 
-2-Forward is as named located on deck 2 forward of the saucer. The room
-contains four replicators, two to each side of the room, and 15 tables
-of varying size and shapes. A pair of stairs allows the main area of
-2-Forward to access the upper observation area above on deck 1.
+2-Forward is as named located on deck 2 forward of the saucer. The room contains four replicators, two to each side of the room, and 15 tables of varying size and shapes. A pair of stairs allows the main area of 2-Forward to access the upper observation area above on deck 1.
 
 ### CO Quarters {.title}
 
-The CO’s Quarters are located on deck 7 port and as expected are the
-largest. It is divided into three areas. In this case a
-bedroom/bathroom, a living area, and a work/eating area.
+The CO's Quarters are located on deck 7 port and as expected are the largest. It is divided into three areas. In this case a bedroom/bathroom, a living area, and a work/eating area.
 
 ### XO Quarters {.title}
 
-The XO’s Quarters are located on deck 9 starboard, and are slightly
-smaller than the CO’s. The room like the CO's is divided into the same
-three areas.
+The XO's Quarters are located on deck 9 starboard, and are slightly smaller than the CO's. The room like the CO's is divided into the same three areas.
 
 ### Department Head Quarters {.title}
 
-The DH quarters are located in a ring around deck 3. These are smaller
-than the XO’s quarters and are divided likewise into the same three
-areas, just smaller.
+The DH quarters are located in a ring around deck 3. These are smaller than the XO's quarters and are divided likewise into the same three areas, just smaller.
 
 ### Junior Officers Quarters {.title}
 
-The JO Quarters are located all along decks 6, 7, 9, 10, 16 and 17. They
-are arranged into two areas, a bedroom/bathroom, and living/work area.
+The JO Quarters are located all along decks 6, 7, 9, 10, 16 and 17. They are arranged into two areas, a bedroom/bathroom, and living/work area.
 
 ### Non-Commissioned Crew Quarters {.title}
 
-These quarters are each just slightly smaller than the JO quarters they
-are located on decks 5, 11 and 18. They are a single open living and
-work area with a bathroom shared between every other pair of rooms.
+These quarters are each just slightly smaller than the JO quarters they are located on decks 5, 11 and 18. They are a single open living and work area with a bathroom shared between every other pair of rooms.
 
 ### General Purpose Areas {.title}
 
-The Memorial's general purpose areas are located on decks 18, 19 and 20
-forward of the ship's shuttle/fighter bay. These three large areas are
-only sparsely completed to allow the crew to refit internal areas for
-new experiments, rooms, or personnel as ship mission needs require. They
-do not however allow mounting of external devices at any time. Commonly
-these three areas are used to house up to a reinforced platoon size of
-marines on the Memorial.
+The Memorial's general purpose areas are located on decks 18, 19 and 20 forward of the ship's shuttle/fighter bay. These three large areas are only sparsely completed to allow the crew to refit internal areas for new experiments, rooms, or personnel as ship mission needs require. They do not however allow mounting of external devices at any time. Commonly these three areas are used to house up to a reinforced platoon size of marines on the Memorial.
 
 Auxiliary Spacecraft Systems {.title}
 ----------------------------
 
 ### Shuttle / Fighter Bay {.title}
 
-The Memorial carries a combination shuttle / fighter bay. This bay spans
-decks 18-20 just aft of the general purpose areas and contain modular
-bay setups to allow a variety of auxiliary craft to be mounted with a
-starbase layover.
+The Memorial carries a combination shuttle / fighter bay. This bay spans decks 18-20 just aft of the general purpose areas and contain modular bay setups to allow a variety of auxiliary craft to be mounted with a starbase layover.
 
-It is a through-deck bay able, to house up to the following amounts of
-support / fighter craft depending on mission profile needs:
+It is a through-deck bay able, to house up to the following amounts of support / fighter craft depending on mission profile needs:
 
 Default auxiliary load-out is:
 
 -   2x Armadillo-class shuttles
 -   5x Longevity-class runabouts
 
-However this can be changed to include the following auxiliary craft for
-particular mission needs or Commanding Officer preferences:
+However this can be changed to include the following auxiliary craft for particular mission needs or Commanding Officer preferences:
 
 -   8x Armadillo-class shuttles
 -   6 Longevity-class Runabouts
@@ -841,9 +530,7 @@ particular mission needs or Commanding Officer preferences:
 Ships of the Class {.title}
 ------------------
 
-Ships of the Memorial class are named for words related to memorial and
-for those senior officers that had died on the Crusader on the mission
-into Flea’tan space.
+Ships of the Memorial class are named for words related to memorial and for those senior officers that had died on the Crusader on the mission into Flea'tan space.
 
 -   USS Memorial, NCC-98800
 -   USS Monument, NCC-98801
@@ -854,10 +541,7 @@ into Flea’tan space.
 -   USS Observance, NCC-98806
 -   USS Colin Prell'noth, NCC-98807
 
-The following ships are named for heroic Crusader junior crew members
-who died in the line of duty during the First Contact Mission with the
-Flea’tans. These ships are reserved for NPC status only and may be
-reused as needed by gamemasters.
+The following ships are named for heroic Crusader junior crew members who died in the line of duty during the First Contact Mission with the Flea'tans. These ships are reserved for NPC status only and may be reused as needed by gamemasters.
 
 -   USS William Harris, NCC-98808
 -   USS Ronald Merigrin, NCC-98809
@@ -869,19 +553,5 @@ reused as needed by gamemasters.
 Conclusion {.title}
 ----------
 
-The Memorial class allows Starfleet to project a strong show of force
-where needed, without the cost and supplies required for the larger
-dreadnoughts. The ship also contains the necessary areas to allow uses
-besides straight up combat.
+The Memorial class allows Starfleet to project a strong show of force where needed, without the cost and supplies required for the larger dreadnoughts. The ship also contains the necessary areas to allow uses besides straight up combat.
 
-* * * * *
-
-  ------------------------ ------------------------ ------------------------
-  [Prev](manhattan.html)   Manhattan-class 
-  [Up](spec-primary.html)  [Home](../index.html)
-   [Next](mjolnir.html)     Mjolnir-class
-  ------------------------ ------------------------ ------------------------
-
-* * * * *
-
-Copyright © 2005-2015 STF and its Members
